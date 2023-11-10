@@ -16,7 +16,7 @@ sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-echo 'src-git helloworld https://github.com/kevinCSDN/helloworld' >>feeds.conf.default
+# echo 'src-git helloworld https://github.com/kevinCSDN/helloworld' >>feeds.conf.default
 # echo 'src-git sundaqiang https://github.com/sundaqiang/openwrt-packages-backup' >>feeds.conf.default
 
 
